@@ -4,6 +4,7 @@ class Student {
 
   String get stud_name {
     return name;
+
   }
 
   void set stud_name(String name) {
